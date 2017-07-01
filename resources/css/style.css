@@ -31,6 +31,13 @@ p {
   font-weight: bold;
 }
 
+.footer {
+  background-color: dimgray;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+}
+
 #des_ny {
   font-family: Helvetica;
   font-size: 23px;
