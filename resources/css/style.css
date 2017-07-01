@@ -13,6 +13,11 @@ h2 {
   text-align: center;
 }
 
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
 .navlink {
   font-family: Helvetica;
   font-size: 18px;
@@ -20,6 +25,29 @@ h2 {
   text-align: center;
 }
 
+.process_item {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#des_ny {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
 #pagetop {
-  background-image: url("../images/the-flatiron-building.png")
+  background-image: url("../images/the-flatiron-building.png");
+  text-align: center;
+}
+
+#process {
+  text-align: center;
+}
+
+#info {
+  text-align: center;
 }
